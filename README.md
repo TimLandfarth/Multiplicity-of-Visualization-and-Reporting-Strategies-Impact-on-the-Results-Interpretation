@@ -1,1 +1,2 @@
-# Multiplicity-of-Visualization-and-Reporting-Strategies-Impact-on-the-Results-Interpretation
+# Multiplicity of Visualization and Reporting Strategies Impact on the Results Interpretation
+In order to take a closer look at multiplicity within individual papers due to the replication crisis in science, it was considered here how many different possibilities there are to represent a graph. This was done in the context of a Master's thesis at the LMU (Ludwig-Maximilians Universität in Munich, Germany) at the Institute for Statistics. This repository was created for public access to all data.  
